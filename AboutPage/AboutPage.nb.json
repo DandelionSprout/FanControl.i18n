@@ -1,0 +1,12 @@
+{
+  "Credit": "Kreditering",
+  "Documentation": "Dokumentasjon",
+  "Donate": "Donér",
+  "Email": "E-post",
+  "EULALicenses": "EULA/Lisenser",
+  "OfficialWebsite": "Offisielt nettsted",
+  "PayPal": "PayPal",
+  "Sponsor": "Spons",
+  "Stripe": "Stripe",
+  "VersionStringFormat": "Versjon: {0}"
+}
