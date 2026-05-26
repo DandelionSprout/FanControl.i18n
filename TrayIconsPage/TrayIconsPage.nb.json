@@ -1,0 +1,8 @@
+{
+  "AddTrayIconSpeed": "Legg til systemkurvikon for viftehastighet (%)",
+  "AddTrayIconTemp": "Legg til systemkurvikontemperatur",
+  "DefaultTrayIconColor": "Standard systemkurvikonfarge",
+  "MissingTrayIconSensor": "Manglende systemkurvikonsensor",
+  "SelectColor": "Velg systemkurvikonfargen til {0}",
+  "SyncIconColor": "Synkroniser ikonfargen med Windows"
+}
